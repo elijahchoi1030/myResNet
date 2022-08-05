@@ -1,0 +1,201 @@
+(Train) [epoch : 1] loss: 2.031 | time: 17.957 | acc: 26.876
+(Eval) [epoch : 1] acc: 35.600
+(Train) [epoch : 2] loss: 1.672 | time: 16.454 | acc: 39.904
+(Eval) [epoch : 2] acc: 42.280
+(Train) [epoch : 3] loss: 1.502 | time: 16.564 | acc: 45.880
+(Eval) [epoch : 3] acc: 46.120
+(Train) [epoch : 4] loss: 1.367 | time: 16.648 | acc: 50.632
+(Eval) [epoch : 4] acc: 48.410
+(Train) [epoch : 5] loss: 1.267 | time: 16.789 | acc: 54.454
+(Eval) [epoch : 5] acc: 50.420
+(Train) [epoch : 6] loss: 1.178 | time: 16.842 | acc: 57.734
+(Eval) [epoch : 6] acc: 50.190
+(Train) [epoch : 7] loss: 1.102 | time: 16.866 | acc: 60.764
+(Eval) [epoch : 7] acc: 51.780
+(Train) [epoch : 8] loss: 1.027 | time: 16.898 | acc: 63.434
+(Eval) [epoch : 8] acc: 51.420
+(Train) [epoch : 9] loss: 0.958 | time: 16.957 | acc: 65.934
+(Eval) [epoch : 9] acc: 52.210
+(Train) [epoch : 10] loss: 0.880 | time: 16.985 | acc: 68.996
+(Eval) [epoch : 10] acc: 53.060
+(Train) [epoch : 11] loss: 0.816 | time: 16.968 | acc: 71.238
+(Eval) [epoch : 11] acc: 53.120
+(Train) [epoch : 12] loss: 0.752 | time: 16.847 | acc: 73.458
+(Eval) [epoch : 12] acc: 53.590
+(Train) [epoch : 13] loss: 0.696 | time: 16.840 | acc: 75.536
+(Eval) [epoch : 13] acc: 52.440
+(Train) [epoch : 14] loss: 0.642 | time: 16.859 | acc: 77.580
+(Eval) [epoch : 14] acc: 53.360
+(Train) [epoch : 15] loss: 0.592 | time: 16.877 | acc: 79.200
+(Eval) [epoch : 15] acc: 52.880
+(Train) [epoch : 16] loss: 0.544 | time: 16.847 | acc: 80.824
+(Eval) [epoch : 16] acc: 53.690
+(Train) [epoch : 17] loss: 0.496 | time: 16.894 | acc: 82.680
+(Eval) [epoch : 17] acc: 53.770
+(Train) [epoch : 18] loss: 0.470 | time: 16.832 | acc: 83.484
+(Eval) [epoch : 18] acc: 53.660
+(Train) [epoch : 19] loss: 0.422 | time: 16.903 | acc: 85.260
+(Eval) [epoch : 19] acc: 53.680
+(Train) [epoch : 20] loss: 0.393 | time: 16.877 | acc: 86.138
+(Eval) [epoch : 20] acc: 54.770
+(Train) [epoch : 21] loss: 0.344 | time: 16.856 | acc: 87.872
+(Eval) [epoch : 21] acc: 54.770
+(Train) [epoch : 22] loss: 0.336 | time: 16.901 | acc: 88.220
+(Eval) [epoch : 22] acc: 54.570
+(Train) [epoch : 23] loss: 0.319 | time: 16.874 | acc: 88.906
+(Eval) [epoch : 23] acc: 54.950
+(Train) [epoch : 24] loss: 0.281 | time: 16.949 | acc: 90.086
+(Eval) [epoch : 24] acc: 54.940
+(Train) [epoch : 25] loss: 0.268 | time: 16.881 | acc: 90.466
+(Eval) [epoch : 25] acc: 54.080
+(Train) [epoch : 26] loss: 0.249 | time: 16.904 | acc: 91.172
+(Eval) [epoch : 26] acc: 54.730
+(Train) [epoch : 27] loss: 0.224 | time: 16.924 | acc: 92.284
+(Eval) [epoch : 27] acc: 54.220
+(Train) [epoch : 28] loss: 0.225 | time: 16.918 | acc: 92.060
+(Eval) [epoch : 28] acc: 56.380
+(Train) [epoch : 29] loss: 0.199 | time: 16.947 | acc: 92.976
+(Eval) [epoch : 29] acc: 56.370
+(Train) [epoch : 30] loss: 0.178 | time: 16.878 | acc: 93.824
+(Eval) [epoch : 30] acc: 54.870
+(Train) [epoch : 31] loss: 0.186 | time: 16.957 | acc: 93.504
+(Eval) [epoch : 31] acc: 55.460
+(Train) [epoch : 32] loss: 0.156 | time: 16.898 | acc: 94.616
+(Eval) [epoch : 32] acc: 56.430
+(Train) [epoch : 33] loss: 0.163 | time: 16.874 | acc: 94.384
+(Eval) [epoch : 33] acc: 56.170
+(Train) [epoch : 34] loss: 0.133 | time: 16.857 | acc: 95.298
+(Eval) [epoch : 34] acc: 56.510
+(Train) [epoch : 35] loss: 0.124 | time: 16.903 | acc: 95.690
+(Eval) [epoch : 35] acc: 56.090
+(Train) [epoch : 36] loss: 0.122 | time: 16.947 | acc: 95.788
+(Eval) [epoch : 36] acc: 56.030
+(Train) [epoch : 37] loss: 0.118 | time: 16.909 | acc: 95.954
+(Eval) [epoch : 37] acc: 56.920
+(Train) [epoch : 38] loss: 0.112 | time: 16.925 | acc: 96.224
+(Eval) [epoch : 38] acc: 56.490
+(Train) [epoch : 39] loss: 0.111 | time: 16.873 | acc: 96.134
+(Eval) [epoch : 39] acc: 55.740
+(Train) [epoch : 40] loss: 0.109 | time: 16.904 | acc: 96.224
+(Eval) [epoch : 40] acc: 55.870
+(Train) [epoch : 41] loss: 0.096 | time: 16.880 | acc: 96.762
+(Eval) [epoch : 41] acc: 56.930
+(Train) [epoch : 42] loss: 0.086 | time: 16.867 | acc: 97.042
+(Eval) [epoch : 42] acc: 56.980
+(Train) [epoch : 43] loss: 0.073 | time: 16.914 | acc: 97.576
+(Eval) [epoch : 43] acc: 56.070
+(Train) [epoch : 44] loss: 0.076 | time: 16.874 | acc: 97.376
+(Eval) [epoch : 44] acc: 56.940
+(Train) [epoch : 45] loss: 0.094 | time: 16.923 | acc: 96.820
+(Eval) [epoch : 45] acc: 56.630
+(Train) [epoch : 46] loss: 0.087 | time: 16.890 | acc: 97.040
+(Eval) [epoch : 46] acc: 57.530
+(Train) [epoch : 47] loss: 0.067 | time: 16.865 | acc: 97.770
+(Eval) [epoch : 47] acc: 56.660
+(Train) [epoch : 48] loss: 0.064 | time: 16.866 | acc: 97.844
+(Eval) [epoch : 48] acc: 56.810
+(Train) [epoch : 49] loss: 0.085 | time: 16.871 | acc: 97.098
+(Eval) [epoch : 49] acc: 56.610
+(Train) [epoch : 50] loss: 0.069 | time: 16.893 | acc: 97.648
+(Eval) [epoch : 50] acc: 56.520
+(Train) [epoch : 51] loss: 0.068 | time: 16.879 | acc: 97.662
+(Eval) [epoch : 51] acc: 57.530
+(Train) [epoch : 52] loss: 0.056 | time: 16.941 | acc: 98.080
+(Eval) [epoch : 52] acc: 57.400
+(Train) [epoch : 53] loss: 0.055 | time: 16.868 | acc: 98.138
+(Eval) [epoch : 53] acc: 57.320
+(Train) [epoch : 54] loss: 0.051 | time: 16.920 | acc: 98.306
+(Eval) [epoch : 54] acc: 56.810
+(Train) [epoch : 55] loss: 0.063 | time: 16.923 | acc: 97.816
+(Eval) [epoch : 55] acc: 57.240
+(Train) [epoch : 56] loss: 0.055 | time: 16.871 | acc: 98.090
+(Eval) [epoch : 56] acc: 57.910
+(Train) [epoch : 57] loss: 0.046 | time: 16.893 | acc: 98.388
+(Eval) [epoch : 57] acc: 57.920
+(Train) [epoch : 58] loss: 0.043 | time: 16.843 | acc: 98.528
+(Eval) [epoch : 58] acc: 58.230
+(Train) [epoch : 59] loss: 0.039 | time: 16.896 | acc: 98.688
+(Eval) [epoch : 59] acc: 57.510
+(Train) [epoch : 60] loss: 0.049 | time: 16.822 | acc: 98.314
+(Eval) [epoch : 60] acc: 58.140
+(Train) [epoch : 61] loss: 0.052 | time: 16.892 | acc: 98.200
+(Eval) [epoch : 61] acc: 57.270
+(Train) [epoch : 62] loss: 0.057 | time: 16.996 | acc: 98.088
+(Eval) [epoch : 62] acc: 57.860
+(Train) [epoch : 63] loss: 0.034 | time: 17.128 | acc: 98.922
+(Eval) [epoch : 63] acc: 57.810
+(Train) [epoch : 64] loss: 0.039 | time: 17.146 | acc: 98.758
+(Eval) [epoch : 64] acc: 58.000
+(Train) [epoch : 65] loss: 0.049 | time: 17.122 | acc: 98.350
+(Eval) [epoch : 65] acc: 57.970
+(Train) [epoch : 66] loss: 0.042 | time: 17.126 | acc: 98.530
+(Eval) [epoch : 66] acc: 57.780
+(Train) [epoch : 67] loss: 0.040 | time: 17.091 | acc: 98.646
+(Eval) [epoch : 67] acc: 58.730
+(Train) [epoch : 68] loss: 0.036 | time: 17.091 | acc: 98.834
+(Eval) [epoch : 68] acc: 57.750
+(Train) [epoch : 69] loss: 0.035 | time: 17.125 | acc: 98.844
+(Eval) [epoch : 69] acc: 57.710
+(Train) [epoch : 70] loss: 0.031 | time: 17.082 | acc: 98.974
+(Eval) [epoch : 70] acc: 57.920
+(Train) [epoch : 71] loss: 0.029 | time: 17.126 | acc: 99.056
+(Eval) [epoch : 71] acc: 57.960
+(Train) [epoch : 72] loss: 0.028 | time: 17.062 | acc: 99.068
+(Eval) [epoch : 72] acc: 57.390
+(Train) [epoch : 73] loss: 0.027 | time: 17.082 | acc: 99.098
+(Eval) [epoch : 73] acc: 58.260
+(Train) [epoch : 74] loss: 0.027 | time: 17.022 | acc: 99.112
+(Eval) [epoch : 74] acc: 58.800
+(Train) [epoch : 75] loss: 0.049 | time: 17.120 | acc: 98.448
+(Eval) [epoch : 75] acc: 58.060
+(Train) [epoch : 76] loss: 0.036 | time: 17.100 | acc: 98.900
+(Eval) [epoch : 76] acc: 57.750
+(Train) [epoch : 77] loss: 0.037 | time: 17.096 | acc: 98.768
+(Eval) [epoch : 77] acc: 57.120
+(Train) [epoch : 78] loss: 0.030 | time: 17.119 | acc: 99.036
+(Eval) [epoch : 78] acc: 57.530
+(Train) [epoch : 79] loss: 0.027 | time: 17.042 | acc: 99.094
+(Eval) [epoch : 79] acc: 57.960
+(Train) [epoch : 80] loss: 0.022 | time: 17.064 | acc: 99.248
+(Eval) [epoch : 80] acc: 58.020
+(Train) [epoch : 81] loss: 0.023 | time: 17.084 | acc: 99.216
+(Eval) [epoch : 81] acc: 58.330
+(Train) [epoch : 82] loss: 0.020 | time: 17.061 | acc: 99.286
+(Eval) [epoch : 82] acc: 58.320
+(Train) [epoch : 83] loss: 0.021 | time: 17.108 | acc: 99.364
+(Eval) [epoch : 83] acc: 58.430
+(Train) [epoch : 84] loss: 0.023 | time: 17.033 | acc: 99.230
+(Eval) [epoch : 84] acc: 57.740
+(Train) [epoch : 85] loss: 0.028 | time: 17.161 | acc: 99.060
+(Eval) [epoch : 85] acc: 57.480
+(Train) [epoch : 86] loss: 0.027 | time: 17.135 | acc: 99.116
+(Eval) [epoch : 86] acc: 58.430
+(Train) [epoch : 87] loss: 0.028 | time: 17.091 | acc: 99.016
+(Eval) [epoch : 87] acc: 58.310
+(Train) [epoch : 88] loss: 0.027 | time: 17.065 | acc: 99.172
+(Eval) [epoch : 88] acc: 58.030
+(Train) [epoch : 89] loss: 0.028 | time: 17.098 | acc: 99.098
+(Eval) [epoch : 89] acc: 58.600
+(Train) [epoch : 90] loss: 0.031 | time: 17.221 | acc: 99.022
+(Eval) [epoch : 90] acc: 57.540
+(Train) [epoch : 91] loss: 0.034 | time: 17.063 | acc: 98.820
+(Eval) [epoch : 91] acc: 57.200
+(Train) [epoch : 92] loss: 0.027 | time: 17.055 | acc: 99.082
+(Eval) [epoch : 92] acc: 58.220
+(Train) [epoch : 93] loss: 0.016 | time: 17.037 | acc: 99.478
+(Eval) [epoch : 93] acc: 58.140
+(Train) [epoch : 94] loss: 0.017 | time: 17.286 | acc: 99.462
+(Eval) [epoch : 94] acc: 58.580
+(Train) [epoch : 95] loss: 0.026 | time: 17.131 | acc: 99.170
+(Eval) [epoch : 95] acc: 57.950
+(Train) [epoch : 96] loss: 0.029 | time: 17.080 | acc: 99.050
+(Eval) [epoch : 96] acc: 58.620
+(Train) [epoch : 97] loss: 0.018 | time: 17.700 | acc: 99.388
+(Eval) [epoch : 97] acc: 58.400
+(Train) [epoch : 98] loss: 0.026 | time: 16.582 | acc: 99.158
+(Eval) [epoch : 98] acc: 58.550
+(Train) [epoch : 99] loss: 0.023 | time: 16.547 | acc: 99.172
+(Eval) [epoch : 99] acc: 58.880
+(Train) [epoch : 100] loss: 0.019 | time: 16.542 | acc: 99.416
+(Eval) [epoch : 100] acc: 58.810
+Training Ended
